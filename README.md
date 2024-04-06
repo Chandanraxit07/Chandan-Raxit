@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Python, SQL,ML,DL,NLP,Powerbi**
 
-- 📫 How to reach me **chandanraxit2468@gmail.com
+- 📫 How to reach me chandanraxit2468@gmail.com
 
 - ⚡ Fun fact **I am very cool**
 
